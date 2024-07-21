@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    /* Center and scale the background image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Specify the animated background image */
+    background-image: url('');
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#contact {
+    background-color: rgba(197, 6, 6, 0.9);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(238, 234, 234, 0.1);
+}
+
